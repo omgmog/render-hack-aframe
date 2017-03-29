@@ -40,6 +40,7 @@ Some highlights from Cardboctober:
 - [Official A-Frame School (tutorial)](https://aframe.io/aframe-school/)
 - [Official A-Frame examples](https://aframe.io/aframe/examples/)
 - [A-Frame boilerplate](https://github.com/aframevr/aframe-boilerplate/)
+- [Bringing Virtual Reality to the web with A-Frame](http://tengio.com/blog/bringing-vr-to-the-web-a-frame/)
 
 ## A starting point for our project today
 

@@ -44,7 +44,11 @@ Some highlights from Cardboctober:
 
 ## A starting point for our project today
 
-So today we're going to create an A-Frame project that connects users to one another. We'll be using the following technologies:
+So today we're going to create an A-Frame project that connects users to one another. 
+
+If you're using one of the Cardboard v1 headsets I've provided, you can find assembly instructions here: [Cardboard assembly instructions](https://vr.briztech.co.uk/instructions.html) (The WiFi probably isn't great here, so please don't watch the video!)
+
+We'll be using the following technologies:
 
 - A-Frame
 - Socket.io / WebRTC
